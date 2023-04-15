@@ -1,2 +1,4 @@
 # blablaMessenger-DiscordTheme
-Based on the messenger from NIKKE
+A discord theme based on the messenging app from the game NIKKE: Goddess of Victory
+
+Screenshots:
