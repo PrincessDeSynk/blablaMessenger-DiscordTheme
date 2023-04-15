@@ -20,7 +20,7 @@
   --transparencycolor: 149,148,146;
   --accentcolor: 255,193,7;
   --backdrop: rgb(82,65,65,0.88);
-  --textshadow: #aab0b5;
+  --textshadow: black;
   --transparencyalpha: 0;
   --messagetransparency: 0.24;
   --guildchanneltransparency: 0.06;
