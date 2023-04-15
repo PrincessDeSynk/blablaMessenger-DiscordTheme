@@ -5,4 +5,4 @@ Screenshots:
 
 ![chat](https://github.com/PrincessDeSynk/blablaMessenger-DiscordTheme/blob/main/screenshots/chatscreenie.png?raw=true)
 ![popout](https://github.com/PrincessDeSynk/blablaMessenger-DiscordTheme/blob/main/screenshots/popoutscreenie.png?raw=true)
-![profile](https://github.com/PrincessDeSynk/blablaMessenger-DiscordTheme/blob/main/screenshots/profilesettingsscreenie.png?raw=true)
+![profile](https://github.com/PrincessDeSynk/blablaMessenger-DiscordTheme/blob/main/screenshots/profilesettingsscreenieedit.png?raw=true)
