@@ -1,7 +1,7 @@
 # blablaMessenger - A Discord Theme
 A discord theme based on the messenging app from the game NIKKE: Goddess of Victory
 
-**The base of this theme (https://betterdiscord.app/theme/BasicBackground) by @DevilBro**
+**The base of this theme ![Framework](https://betterdiscord.app/theme/BasicBackground) by @DevilBro**
 
 Screenshots:
 
